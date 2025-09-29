@@ -1,0 +1,661 @@
+{
+  "l6SQW4_pTUIvHDcFAAAB": {
+    "demo": [],
+    "real": []
+  },
+  "KIDxuk6Dv3qc4fWgAAAD": {
+    "demo": [
+      {
+        "id": 1758991007840,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.085434529898172,
+        "startTime": "2025-09-27T16:36:47.840Z",
+        "endTime": "2025-09-27T16:36:52.840Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0855459225676272,
+        "payout": 185
+      }
+    ],
+    "real": []
+  },
+  "p8X33nuCDL0-O3tFAAAF": {
+    "demo": [],
+    "real": []
+  },
+  "eBGsBU25paw1iKYxAAAH": {
+    "demo": [
+      {
+        "id": 1758991043622,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0841497734417442,
+        "startTime": "2025-09-27T16:37:23.622Z",
+        "endTime": "2025-09-27T16:37:28.622Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.084501654749431,
+        "payout": 185
+      },
+      {
+        "id": 1758991043781,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0841497734417442,
+        "startTime": "2025-09-27T16:37:23.781Z",
+        "endTime": "2025-09-27T16:37:28.781Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.084501654749431,
+        "payout": 185
+      },
+      {
+        "id": 1758991043977,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0841497734417442,
+        "startTime": "2025-09-27T16:37:23.977Z",
+        "endTime": "2025-09-27T16:37:28.977Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.084501654749431,
+        "payout": 185
+      },
+      {
+        "id": 1758991044159,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0841497734417442,
+        "startTime": "2025-09-27T16:37:24.159Z",
+        "endTime": "2025-09-27T16:37:29.159Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.084501654749431,
+        "payout": 185
+      },
+      {
+        "id": 1758991044345,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0841497734417442,
+        "startTime": "2025-09-27T16:37:24.345Z",
+        "endTime": "2025-09-27T16:37:29.345Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.084501654749431,
+        "payout": 185
+      },
+      {
+        "id": 1758991044511,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.084422080443668,
+        "startTime": "2025-09-27T16:37:24.511Z",
+        "endTime": "2025-09-27T16:37:29.511Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0845404384137376,
+        "payout": 185
+      },
+      {
+        "id": 1758991044693,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.084422080443668,
+        "startTime": "2025-09-27T16:37:24.693Z",
+        "endTime": "2025-09-27T16:37:29.693Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0845404384137376,
+        "payout": 185
+      },
+      {
+        "id": 1758991044853,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.084422080443668,
+        "startTime": "2025-09-27T16:37:24.853Z",
+        "endTime": "2025-09-27T16:37:29.853Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0845404384137376,
+        "payout": 185
+      },
+      {
+        "id": 1758991045073,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.084422080443668,
+        "startTime": "2025-09-27T16:37:25.073Z",
+        "endTime": "2025-09-27T16:37:30.073Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0845404384137376,
+        "payout": 185
+      }
+    ],
+    "real": []
+  },
+  "I1mv11WyCYWw_hobAAAJ": {
+    "demo": [],
+    "real": []
+  },
+  "user_1758991290363_fbgafbagk": {
+    "demo": [],
+    "real": []
+  },
+  "user_1758991002184_kro0hjdgf": {
+    "demo": [
+      {
+        "id": 1758991303868,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.083146873887912,
+        "startTime": "2025-09-27T16:41:43.868Z",
+        "endTime": "2025-09-27T16:41:48.868Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.082632221329695,
+        "payout": 0
+      },
+      {
+        "id": 1758991304041,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.083146873887912,
+        "startTime": "2025-09-27T16:41:44.041Z",
+        "endTime": "2025-09-27T16:41:49.041Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.082632221329695,
+        "payout": 0
+      },
+      {
+        "id": 1758991304225,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.083146873887912,
+        "startTime": "2025-09-27T16:41:44.225Z",
+        "endTime": "2025-09-27T16:41:49.225Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.082632221329695,
+        "payout": 0
+      },
+      {
+        "id": 1758991304391,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.082757357029337,
+        "startTime": "2025-09-27T16:41:44.391Z",
+        "endTime": "2025-09-27T16:41:49.391Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0828990537754928,
+        "payout": 185
+      },
+      {
+        "id": 1758991304573,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.082757357029337,
+        "startTime": "2025-09-27T16:41:44.573Z",
+        "endTime": "2025-09-27T16:41:49.573Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0828990537754928,
+        "payout": 185
+      },
+      {
+        "id": 1758991304776,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.082757357029337,
+        "startTime": "2025-09-27T16:41:44.776Z",
+        "endTime": "2025-09-27T16:41:49.776Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0828990537754928,
+        "payout": 185
+      },
+      {
+        "id": 1758991304999,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.082757357029337,
+        "startTime": "2025-09-27T16:41:44.999Z",
+        "endTime": "2025-09-27T16:41:49.999Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0828990537754928,
+        "payout": 185
+      }
+    ],
+    "real": [
+      {
+        "id": 1759036895685,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 3000,
+        "duration": 5,
+        "startPrice": 1.0832308810557791,
+        "startTime": "2025-09-28T05:21:35.685Z",
+        "endTime": "2025-09-28T05:21:40.685Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "won",
+        "endPrice": 1.083710602619836,
+        "payout": 5550
+      },
+      {
+        "id": 1759036912766,
+        "asset": "EUR/USD",
+        "direction": "down",
+        "amount": 500,
+        "duration": 5,
+        "startPrice": 1.0831077587287803,
+        "startTime": "2025-09-28T05:21:52.766Z",
+        "endTime": "2025-09-28T05:21:57.766Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "lost",
+        "endPrice": 1.0838030231650304,
+        "payout": 0
+      },
+      {
+        "id": 1759036926172,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 5000,
+        "duration": 5,
+        "startPrice": 1.0832248026026925,
+        "startTime": "2025-09-28T05:22:06.172Z",
+        "endTime": "2025-09-28T05:22:11.172Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "won",
+        "endPrice": 1.08381016219578,
+        "payout": 9250
+      },
+      {
+        "id": 1759037192433,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.086047683659339,
+        "startTime": "2025-09-28T05:26:32.433Z",
+        "endTime": "2025-09-28T05:26:37.433Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "lost",
+        "endPrice": 1.0855546225689243,
+        "payout": 0
+      },
+      {
+        "id": 1759037460578,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.085188452356099,
+        "startTime": "2025-09-28T05:31:00.578Z",
+        "endTime": "2025-09-28T05:31:05.578Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "lost",
+        "endPrice": 1.0849676158326056,
+        "payout": 0
+      },
+      {
+        "id": 1759037467068,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0849485042493145,
+        "startTime": "2025-09-28T05:31:07.068Z",
+        "endTime": "2025-09-28T05:31:12.068Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "won",
+        "endPrice": 1.0852941127039037,
+        "payout": 185
+      },
+      {
+        "id": 1759037473382,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.085577372131223,
+        "startTime": "2025-09-28T05:31:13.382Z",
+        "endTime": "2025-09-28T05:31:18.382Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "lost",
+        "endPrice": 1.0852312271554763,
+        "payout": 0
+      }
+    ]
+  },
+  "user_1759030162945_m7tnh92xa": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759036944867_9xesiaay5": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037080983_i6wto2e06": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037185417_l055pe9ji": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037590020_xvpt04v1y": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037606365_v8sw2ab7q": {
+    "demo": [
+      {
+        "id": 1759037623348,
+        "asset": "USD/JPY",
+        "direction": "down",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 149.56835940099484,
+        "startTime": "2025-09-28T05:33:43.348Z",
+        "endTime": "2025-09-28T05:33:48.348Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 149.5434436577558,
+        "payout": 0
+      },
+      {
+        "id": 1759038922047,
+        "asset": "EUR/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 60,
+        "startPrice": 1.0848689983768722,
+        "startTime": "2025-09-28T05:55:22.047Z",
+        "endTime": "2025-09-28T05:56:22.047Z",
+        "status": "active",
+        "accountType": "demo"
+      },
+      {
+        "id": 1759073966072,
+        "asset": "EUR/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0851037358484001,
+        "startTime": "2025-09-28T15:39:26.072Z",
+        "endTime": "2025-09-28T15:39:31.072Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0848067396268655,
+        "payout": 185
+      },
+      {
+        "id": 1759073976548,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 60,
+        "startPrice": 1.0855280488232546,
+        "startTime": "2025-09-28T15:39:36.548Z",
+        "endTime": "2025-09-28T15:40:36.548Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0869517338292463,
+        "payout": 185
+      }
+    ],
+    "real": []
+  },
+  "user_1759037616127_ntlbbwmme": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037724642_o6tmajlzl": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759037971236_obfhsf4r8": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759038033204_u7rko4lw4": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759038345864_2n2akg0nz": {
+    "demo": [
+      {
+        "id": 1759038356955,
+        "asset": "EUR/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.087580611299571,
+        "startTime": "2025-09-28T05:45:56.955Z",
+        "endTime": "2025-09-28T05:46:01.955Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0868993559309919,
+        "payout": 185
+      },
+      {
+        "id": 1759038381303,
+        "asset": "GBP/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 60,
+        "startPrice": 1.2607877418880198,
+        "startTime": "2025-09-28T05:46:21.303Z",
+        "endTime": "2025-09-28T05:47:21.303Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.262386543848192,
+        "payout": 0
+      },
+      {
+        "id": 1759038391698,
+        "asset": "GBP/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 60,
+        "startPrice": 1.2612763376724165,
+        "startTime": "2025-09-28T05:46:31.698Z",
+        "endTime": "2025-09-28T05:47:31.698Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.2612772741685818,
+        "payout": 0
+      },
+      {
+        "id": 1759038399517,
+        "asset": "GBP/USD",
+        "direction": "up",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.2615720244199633,
+        "startTime": "2025-09-28T05:46:39.517Z",
+        "endTime": "2025-09-28T05:46:44.517Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "lost",
+        "endPrice": 1.2613647651862876,
+        "payout": 0
+      }
+    ],
+    "real": [
+      {
+        "id": 1759038857974,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 5000,
+        "duration": 5,
+        "startPrice": 1.0858385956359595,
+        "startTime": "2025-09-28T05:54:17.974Z",
+        "endTime": "2025-09-28T05:54:22.974Z",
+        "status": "completed",
+        "accountType": "real",
+        "result": "won",
+        "endPrice": 1.0862034297889016,
+        "payout": 9250
+      }
+    ]
+  },
+  "user_1759041002040_spw6y6ws5": {
+    "demo": [
+      {
+        "id": 1759041019868,
+        "asset": "EUR/USD",
+        "direction": "down",
+        "amount": 100,
+        "duration": 5,
+        "startPrice": 1.0842385387113975,
+        "startTime": "2025-09-28T06:30:19.868Z",
+        "endTime": "2025-09-28T06:30:24.868Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.0840986875203835,
+        "payout": 185
+      }
+    ],
+    "real": []
+  },
+  "user_1759041498019_0iqg9gz39": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759071974502_vbce9e85d": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759072351351_yu9mvzzml": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759072636411_wys4he4pv": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759072638125_h7hlx5izk": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759072662587_xertg67yy": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759073959078_1q47qcca6": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759073959572_593981qmr": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759074189587_98o9ypi6o": {
+    "demo": [
+      {
+        "id": 1759074205743,
+        "asset": "EUR/USD",
+        "direction": "up",
+        "amount": 5000,
+        "duration": 5,
+        "startPrice": 1.0854877215310934,
+        "startTime": "2025-09-28T15:43:25.743Z",
+        "endTime": "2025-09-28T15:43:30.743Z",
+        "status": "completed",
+        "accountType": "demo",
+        "result": "won",
+        "endPrice": 1.085831165130614,
+        "payout": 9250
+      }
+    ],
+    "real": []
+  },
+  "user_1759075156081_uit8fd4rk": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759075451039_k9ucq6vax": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759079595947_138xjmo4e": {
+    "demo": [],
+    "real": []
+  },
+  "user_1759079596366_311gvypk8": {
+    "demo": [],
+    "real": []
+  }
+}
